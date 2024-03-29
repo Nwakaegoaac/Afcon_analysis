@@ -2,7 +2,6 @@
 Development of Confederation of Africa Football.
 
 
-
 -------
 # Project Ojective:
 This project is to roundoff a 30-days analysis workshop.
